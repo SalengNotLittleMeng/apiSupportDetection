@@ -1,0 +1,9 @@
+*.iml
+node_modules/
+package-lock.json
+yarn.lock
+types/
+test/
+jest.config.js
+webpack.config.js
+
